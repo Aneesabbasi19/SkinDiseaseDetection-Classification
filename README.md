@@ -50,6 +50,24 @@ Image Upload → YOLOv8m Lesion Detection → Dual-Model Classification → Diag
 | Disease categories covered | 8 |
 | Detection | Real-time, with bounding box visualization |
 
+## Live Demo
+
+<div align="center">
+
+**Multi-lesion Acne Detection**
+
+<img src="demo-screenshots/acne-detection.png" width="90%" />
+<img src="demo-screenshots/acne-result.png" width="60%" />
+
+<br/><br/>
+
+**Melanoma Detection**
+
+<img src="demo-screenshots/melanoma-detection.png" width="90%" />
+<img src="demo-screenshots/melanoma-result.png" width="60%" />
+
+</div>
+
 ## Application
 
 The model is served through a **Streamlit** web app with:
